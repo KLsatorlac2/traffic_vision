@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python build / distribution
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+*.safetensors
+
+# Datasets
+datasets/raw/
+datasets/videos/
+datasets/images/
+
+# Outputs
+runs/
+outputs/
+results/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

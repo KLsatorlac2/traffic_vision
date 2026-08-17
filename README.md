@@ -215,6 +215,10 @@ runs/pipeline/traffic_counting.mp4
 
 # 8. Experiments
 
+The project includes core experiments on detection, tracking, and tracking failure analysis.
+The historical development process involved multiple parameter tests.
+The repository retains the main experiment and analysis scripts; some scripts used during the early stages of experimentation were not retained in the final version.
+
 ## 8.1 Confidence Threshold Experiment
 
 The following confidence thresholds were evaluated:
